@@ -1,0 +1,15 @@
+db/
+incremental_db/
+work/
+output_files/
+simulation/
+*.bak
+*.qws
+
+# Mac stuff
+.DS_Store
+.DS_Store?
+.Trashes
+Thumbs.db
+ehthumbes.db
+._*
